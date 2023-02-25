@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Exercise: https://www.beecrowd.com.br/judge/en/problems/view/1014
+ * Exercise: https://www.beecrowd.com.br/judge/en/problems/view/1015
  * Author : Allan Baptista Santos
  * OBS: public class EX1015 has to be renamed to Main to be accepted.
  */
